@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Блокировщик рекламы</string>
+    <string name="notif_channel_name">Работа блокировщика</string>
+    <string name="notif_title">Блокировщик рекламы работает</string>
+    <string name="notif_text">DNS-запросы фильтруются без root</string>
+</resources>
